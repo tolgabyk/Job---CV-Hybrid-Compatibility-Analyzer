@@ -1,4 +1,4 @@
-# Job---CV-Hybrid-Compatibility-Analyzer
+# Job-CV-Hybrid-Compatibility-Analyzer
 
 Bu proje, bir iş ilanı açıklaması ile CV (PDF) arasındaki uyumluluğu anlamsal (semantic) olarak analiz eden bir Streamlit tabanlı web uygulamasıdır.
 
